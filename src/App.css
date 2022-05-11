@@ -1,3 +1,10 @@
+*{
+  background-image: url("https://noithatsalla.com/data/images/ph%C6%B0%C6%A1ng%20%C3%A1n%202.PNG");
+  background-repeat: no-repeat;
+}
+#temp{
+  margin: 50px 0px 0px 300px;
+}
 .App {
   text-align: center;
 }
